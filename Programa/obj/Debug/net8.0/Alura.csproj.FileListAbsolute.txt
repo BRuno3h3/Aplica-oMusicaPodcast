@@ -1,0 +1,14 @@
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\obj\Debug\net8.0\Alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\obj\Debug\net8.0\Alura.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\obj\Debug\net8.0\Alura.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\obj\Debug\net8.0\Alura.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\bin\Debug\net8.0\Alura.exe
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\bin\Debug\net8.0\Alura.deps.json
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\bin\Debug\net8.0\Alura.runtimeconfig.json
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\bin\Debug\net8.0\Alura.dll
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\obj\Debug\net8.0\Alura.dll
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\obj\Debug\net8.0\refint\Alura.dll
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\obj\Debug\net8.0\Alura.pdb
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\obj\Debug\net8.0\Alura.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\obj\Debug\net8.0\ref\Alura.dll
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Alura\bin\Debug\net8.0\Alura.pdb
